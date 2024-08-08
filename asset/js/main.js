@@ -30,7 +30,7 @@ function headerShadow() {
 
 /* -- typing efek-- */
 var typingEffect = new Typed(".typedText", {
-    strings: ["Fatih Gesang", "UI/UX Designer", "Freelancer", "Demon King"],
+    strings: ["Fatih Gesang", "UI/UX Designer", "Freelancer", "Web Developer"],
     typeSpeed: 100,
     backSpeed: 80,
     backDelay: 2000,
